@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "download-file": "^0.1.5",
+    "jimp": "^0.2.28",
     "node-telegram-bot-api": "^0.30.0"
   }
 }
